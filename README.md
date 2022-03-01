@@ -1,1 +1,1 @@
-My first readme
+My first manual readme edit via GitHub.com
